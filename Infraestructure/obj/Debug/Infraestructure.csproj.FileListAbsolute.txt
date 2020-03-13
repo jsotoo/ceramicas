@@ -1,0 +1,6 @@
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Infraestructure\obj\Debug\Infraestructure.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c7b226c14c724b6d9d1330d1293cd7b6" Name="Diagram1">
+        <EntityTypeShape EntityType="CeramicasModel.Bodega" Width="1.5" PointX="5.25" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.Categorias" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.Marcas" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.Productos" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.Proveedores" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.Usuario" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.Ventas" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.ProveedoresXProductos" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CeramicasModel.VentasXProductos" Width="1.5" PointX="5.25" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="CeramicasModel.FK_Bodega_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_Productos_Categorias" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_Productos_Marcas" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_ProveedoresXProductos_Productos" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_VentasXProductos_Productos" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_ProveedoresXProductos_Proveedores" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_Ventas_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CeramicasModel.FK_VentasXProductos_Ventas" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

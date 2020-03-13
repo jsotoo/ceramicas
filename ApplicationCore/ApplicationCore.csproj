@@ -52,72 +52,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bussiness\Personas.cs" />
-    <Compile Include="Bussiness\Productos.cs" />
-    <Compile Include="Class1.cs" />
-    <Compile Include="EF\Bodega.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Categoria.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Ceramica.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Ceramica.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Ceramica.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Ceramica.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Ceramica.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Cliente.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Devolucione.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\DevolucionesXProducto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Empleado.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Gasto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\GastosXProducto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Marca.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\MarcasXProducto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Persona.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Producto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Proveedore.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\ProveedoresXProducto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\Venta.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
-    <Compile Include="EF\VentasXProducto.cs">
-      <DependentUpon>Ceramica.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -128,30 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <EntityDeploy Include="EF\Ceramica.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>Ceramica.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="EF\Ceramica.edmx.diagram">
-      <DependentUpon>Ceramica.edmx</DependentUpon>
-    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="EF\Ceramica.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Ceramica.edmx</DependentUpon>
-      <LastGenOutput>Ceramica.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="EF\Ceramica.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Ceramica.edmx</DependentUpon>
-      <LastGenOutput>Ceramica.cs</LastGenOutput>
-    </Content>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

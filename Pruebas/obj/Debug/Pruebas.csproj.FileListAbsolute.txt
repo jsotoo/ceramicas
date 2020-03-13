@@ -1,0 +1,17 @@
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\ApplicationCore.dll
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\Infraestructure.dll
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\EntityFramework.dll
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\ApplicationCore.pdb
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\ApplicationCore.dll.config
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\Infraestructure.pdb
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\EntityFramework.xml
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonathan.soto\Desktop\Proyectos Jonathan\Aula Matriz\CERAMICAS\ProyectoCeramicas\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
